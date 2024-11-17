@@ -1,6 +1,7 @@
 return {
   {
     "nvim-treesitter/nvim-treesitter",
+    run = ":TSUpdate",
     opts = {
       ensure_installed = {
         "bash",
@@ -21,7 +22,6 @@ return {
         "c",
         "rust",
         "go",
-        "zig",
       },
     },
   },
