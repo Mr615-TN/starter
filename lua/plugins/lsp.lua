@@ -4,7 +4,7 @@ return {
     opts = {
       servers = {
         pyright = {},
-        tsserver = {},
+        ts_ls = {},
       },
     },
   },
