@@ -7,8 +7,6 @@ return {
         ts_ls = {},
         clangd = {},
         rust_analyzer = {},
-        gopls = {},
-        ocamllsp = {},
       },
     },
   },
