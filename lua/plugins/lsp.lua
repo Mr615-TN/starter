@@ -5,6 +5,10 @@ return {
       servers = {
         pyright = {},
         ts_ls = {},
+        clangd = {},
+        rust_analyzer = {},
+        gopls = {},
+        ocamllsp = {},
       },
     },
   },
